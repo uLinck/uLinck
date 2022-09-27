@@ -4,7 +4,7 @@
 
 * I'm Java Developer ☕
 * Constantly trying to be better than before. 🧠
-* Studying Software analysis and development at Unisinos university. 👨‍🎓
+* Studying Software Analysis and Development at Unisinos University. 👨‍🎓
 * Participating in DBC's VemSer program. 🚀
 
 <div>
