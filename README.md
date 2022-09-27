@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**uLinck/uLinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Welcome to my profile</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm Java Developer ☕
+* Constantly trying to be better than before. 🧠
+* Studying Software analysis and development at Unisinos university. 👨‍🎓
+* Participating in DBC's VemSer program. 🚀
+
+<div>
+  <a href="https://github.com/uLinck">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=uLinck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLinck&layout=compact&langs_count=7&theme=dracula">
+</div>
+  
+### Visitor count:
+
+<p align="left"> <img src="https://profile-counter.glitch.me/uLinck/count.svg" alt="Profile views" /> </p>
+
+    
+    
