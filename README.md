@@ -2,7 +2,7 @@
 <h1 align="left">👾 Welcome to my profile! 👾</h1>
 
 
-* I'm Java Developer ☕
+* I'm Csharp/Java Developer ☕
 * Constantly trying to be better than before. 🧠
 * Studying Software Analysis and Development at Unisinos University. 👨‍🎓
 * Participating in DBC's VemSer program. 🚀
