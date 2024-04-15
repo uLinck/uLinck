@@ -43,7 +43,7 @@
 
 <h3>GitHub Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=uLinck&theme=neon&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=uLinck&theme=neon&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
 <br>
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/mari4souza/github-readme-stats)
 <br>
