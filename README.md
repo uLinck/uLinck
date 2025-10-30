@@ -7,7 +7,6 @@
 * I'm Csharp/Java Developer ☕
 * Constantly trying to be better than before. 🧠
 * Studying Software Analysis and Development at Estácio University. 👨‍🎓
-* I'm an active member of the development team at DBC Company, where I'm allocated to the client Bem Promotora. 🚀
 
 
 <h3 align="left">Connect with me!</h3>
