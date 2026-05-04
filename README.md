@@ -46,11 +46,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=uLinck&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uLinck&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/uLinck/github-readme-stats)
 <br>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
