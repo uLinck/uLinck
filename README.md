@@ -4,7 +4,7 @@
 
 
 
-* I'm Csharp/Java Developer ☕
+* I'm Fullstack Developer ☕
 * Constantly trying to be better than before. 🧠
 * Studying Software Analysis and Development at Estácio University. 👨‍🎓
 
