@@ -1,5 +1,3 @@
-<img align="right" alt="" height="300px" src="./me.png">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+o+Gustavo+Linck!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
@@ -11,8 +9,8 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:linck.privado@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/linckfx/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:linck.privado@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/linckfx/)
 
 <h3 align="left">My Stack</h3>
 
@@ -46,6 +44,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=uLinck&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uLinck&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/uLinck/github-readme-stats)
 <br>
+<picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
