@@ -1,11 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+o+Gustavo+Linck!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0140,50:7b2ff7,100:ff00f6&height=200&section=header&text=Gustavo%20Linck&fontSize=45&fontColor=ffffff&desc=Fullstack%20Developer%20%E2%9A%94%EF%B8%8F&descSize=18&descAlignY=62&animation=fadeIn"/>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FF00F6&center=true&vCenter=true&width=550&height=50&lines=Press+Start+to+Continue_;Loading+Gustavo.exe...;Fullstack+Developer+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
 
+```
+╔══════════════════════════════════════════╗
+  🧙 PLAYER    : Gustavo Linck
+  🛡️  CLASSE    : Fullstack Developer
+  🏫 GUILDA    : Estácio — Análise e Des. de Sistemas
+  📈 LEVEL     : sempre subindo (grind infinito)
+  ⚔️  MAINQUEST : ser melhor que ontem
+╚══════════════════════════════════════════╝
+```
 
-* I'm Fullstack Developer ☕
-* Constantly trying to be better than before. 🧠
-* Studying Software Analysis and Development at Estácio University. 👨‍🎓
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote of the day"/>
+</p>
 
 <h3 align="left">Connect with me!</h3>
 
