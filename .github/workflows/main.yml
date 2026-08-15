@@ -33,9 +33,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
-      # computes the current contribution streak via the GraphQL API and writes a shields.io
-      # endpoint-badge JSON, so the README badge never depends on a third-party render service
-      - name: generate streak.json
+      # computes current + longest contribution streak via the GraphQL API and renders a
+      # static SVG card, so the README streak card never depends on a third-party render service
+      - name: generate streak.svg
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -56,18 +56,29 @@ jobs:
           if days[i] == 0:
               i -= 1  # today may not have contributions yet, don't break the streak on it
 
-          streak = 0
+          current = 0
           while i >= 0 and days[i] > 0:
-              streak += 1
+              current += 1
               i -= 1
 
-          with open("dist/streak.json", "w") as f:
-              json.dump({
-                  "schemaVersion": 1,
-                  "label": "current streak",
-                  "message": f"{streak} days",
-                  "color": "bb00b4",
-              }, f)
+          longest = run = 0
+          for count in days:
+              run = run + 1 if count > 0 else 0
+              longest = max(longest, run)
+
+          svg = f'''<svg width="400" height="195" viewBox="0 0 400 195" xmlns="http://www.w3.org/2000/svg">
+            <rect x="0.5" y="0.5" width="399" height="194" rx="10" fill="#000000" stroke="#ff00f6"/>
+            <circle cx="140" cy="95" r="48" fill="none" stroke="#ff00f6" stroke-width="5"/>
+            <text x="140" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="32" font-weight="700" fill="#ffffff">{current}</text>
+            <text x="140" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#8B8B8B">days</text>
+            <text x="140" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#bb00b4">Current Streak</text>
+            <text x="300" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="32" font-weight="700" fill="#ffffff">{longest}</text>
+            <text x="300" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#8B8B8B">days</text>
+            <text x="300" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#bb00b4">Longest Streak</text>
+          </svg>'''
+
+          with open("dist/streak.svg", "w") as f:
+              f.write(svg)
           PYEOF
 
       # push the content of <build_dir> to a branch

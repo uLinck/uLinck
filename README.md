@@ -60,7 +60,7 @@
 ### 💾 SAVE FILE (Stats)
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FuLinck%2FuLinck%2Foutput%2Fstreak.json&style=for-the-badge" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/uLinck/uLinck/output/streak.svg" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
