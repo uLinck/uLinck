@@ -19,10 +19,10 @@
 ### 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estagi%C3%A1rio-Unlocked-bb00b4?style=for-the-badge" alt="Estagiário unlocked"/>
-  <img src="https://img.shields.io/badge/J%C3%BAnior-Unlocked-7b2ff7?style=for-the-badge" alt="Júnior unlocked"/>
-  <img src="https://img.shields.io/badge/Pleno-Unlocked-ff00f6?style=for-the-badge" alt="Pleno unlocked"/>
-  <img src="https://img.shields.io/badge/S%C3%AAnior-Blocked-lightgrey?style=for-the-badge" alt="Sênior blocked"/>
+  <img src="https://img.shields.io/badge/Intern-Unlocked-bb00b4?style=for-the-badge" alt="Intern unlocked"/>
+  <img src="https://img.shields.io/badge/Junior-Unlocked-7b2ff7?style=for-the-badge" alt="Junior unlocked"/>
+  <img src="https://img.shields.io/badge/Mid%20Level-Unlocked-ff00f6?style=for-the-badge" alt="Mid level unlocked"/>
+  <img src="https://img.shields.io/badge/Senior-Blocked-lightgrey?style=for-the-badge" alt="Senior blocked"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
@@ -31,7 +31,7 @@
 
 <p align="center">
   <kbd>
-    <kbd>Linguagens</kbd><br><br>
+    <kbd>Languages</kbd><br><br>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#"/>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"/>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go"/>
@@ -45,7 +45,7 @@
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
   </kbd>
   <kbd>
-    <kbd>Banco de Dados</kbd><br><br>
+    <kbd>Database</kbd><br><br>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql server"/>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle"/>
   </kbd>
