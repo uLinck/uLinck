@@ -20,48 +20,75 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote of the day"/>
 </p>
 
-<h3 align="left">Connect with me!</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:linck.privado@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/linckfx/)
+### 🏆 ACHIEVEMENTS UNLOCKED
 
-<h3 align="left">My Stack</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uLinck&theme=dracula&no-bg=true&row=1&column=7&margin-w=8&no-frame=true" alt="trophies"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
 
+### 🎒 INVENTORY (Stack)
 
-<h3>GitHub Stats</h3>
+<p align="center">
+  <kbd>
+    <kbd>Linguagens</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/>
+  </kbd>
+  <kbd>
+    <kbd>Frameworks</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"/>
+  </kbd>
+  <kbd>
+    <kbd>Banco de Dados</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql server"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle"/>
+  </kbd>
+  <kbd>
+    <kbd>Infra</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker"/>
+  </kbd>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=uLinck&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true)](https://git.io/streak-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uLinck&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760)](https://github.com/uLinck/github-readme-stats)
-<br>
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
 
-### Visitor count:
+### 💾 SAVE FILE (Stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uLinck&color=bb00b4&style=for-the-badge&label=VIEWS" alt="Profile views" /> </p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uLinck&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true" alt="GitHub Streak"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLinck&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages"/></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uLinck/uLinck/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
+
+### 🎮 MULTIPLAYER MODE (Connect)
+
+<p align="center">
+  <a href="mailto:linck.privado@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=000" alt="E-mail"/></a>
+  <a href="https://www.instagram.com/linckfx/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000" alt="Instagram"/></a>
+</p>
+
+### 👁️ Visitor count
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=uLinck&color=bb00b4&style=for-the-badge&label=VIEWS" alt="Profile views"/></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0140,50:7b2ff7,100:ff00f6&height=100&section=footer"/>
