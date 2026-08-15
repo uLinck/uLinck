@@ -66,15 +66,31 @@ jobs:
               run = run + 1 if count > 0 else 0
               longest = max(longest, run)
 
-          svg = f'''<svg width="400" height="195" viewBox="0 0 400 195" xmlns="http://www.w3.org/2000/svg">
-            <rect x="0.5" y="0.5" width="399" height="194" rx="10" fill="#000000" stroke="#ff00f6"/>
-            <circle cx="140" cy="95" r="48" fill="none" stroke="#ff00f6" stroke-width="5"/>
-            <text x="140" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="32" font-weight="700" fill="#ffffff">{current}</text>
-            <text x="140" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#8B8B8B">days</text>
-            <text x="140" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#bb00b4">Current Streak</text>
-            <text x="300" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="32" font-weight="700" fill="#ffffff">{longest}</text>
-            <text x="300" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#8B8B8B">days</text>
-            <text x="300" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#bb00b4">Longest Streak</text>
+          svg = f'''<svg width="420" height="200" viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#120022"/>
+                <stop offset="100%" stop-color="#2d0140"/>
+              </linearGradient>
+              <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#7b2ff7"/>
+                <stop offset="100%" stop-color="#ff00f6"/>
+              </linearGradient>
+              <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+                <stop offset="0%" stop-color="#ff00f6" stop-opacity="0.4"/>
+                <stop offset="100%" stop-color="#ff00f6" stop-opacity="0"/>
+              </radialGradient>
+            </defs>
+            <rect x="1" y="1" width="418" height="198" rx="16" fill="url(#bg)" stroke="url(#ring)" stroke-width="2"/>
+            <circle cx="145" cy="100" r="62" fill="url(#glow)"/>
+            <circle cx="145" cy="100" r="52" fill="#1a0430" stroke="url(#ring)" stroke-width="6"/>
+            <text x="145" y="96" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="36" font-weight="800" fill="#ffffff">{current}</text>
+            <text x="145" y="118" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#d9b3ef">days</text>
+            <text x="145" y="178" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ff8cf5">CURRENT STREAK</text>
+            <line x1="235" y1="45" x2="235" y2="160" stroke="#4a1a63" stroke-width="1.5"/>
+            <text x="325" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="36" font-weight="800" fill="#ffffff">{longest}</text>
+            <text x="325" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" fill="#d9b3ef">days</text>
+            <text x="325" y="150" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ff8cf5">LONGEST STREAK</text>
           </svg>'''
 
           with open("dist/streak.svg", "w") as f:
