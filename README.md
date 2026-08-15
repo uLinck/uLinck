@@ -8,10 +8,10 @@
 
 <table align="center">
   <tr><td>🧙 Player</td><td>Gustavo Linck</td></tr>
-  <tr><td>🛡️ Classe</td><td>Fullstack Developer</td></tr>
-  <tr><td>🎓 College</td><td>Estácio — Análise e Des. de Sistemas</td></tr>
+  <tr><td>🛡️ Class</td><td>Fullstack Developer</td></tr>
+  <tr><td>🎓 College</td><td>Estácio — Systems Analysis and Development</td></tr>
   <tr><td>📈 Level</td><td>23</td></tr>
-  <tr><td>🎯 Quest atual</td><td>subir de level sem pressa</td></tr>
+  <tr><td>🎯 Current Quest</td><td>expanding the skill tree</td></tr>
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
