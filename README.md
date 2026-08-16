@@ -6,19 +6,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FF00F6&center=true&vCenter=true&width=550&height=50&lines=Press+Start+to+Continue_;Loading+Gustavo.exe...;Fullstack+Developer+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
-```
-╔══════════════════════════════════════════╗
-  🧙 PLAYER    : Gustavo Linck
-  🛡️  CLASSE    : Fullstack Developer
-  🏫 GUILDA    : Estácio — Análise e Des. de Sistemas
-  📈 LEVEL     : sempre subindo (grind infinito)
-  ⚔️  MAINQUEST : ser melhor que ontem
-╚══════════════════════════════════════════╝
-```
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote of the day"/>
-</p>
+<table align="center">
+  <tr><td>🧙 Player</td><td>Gustavo Linck</td></tr>
+  <tr><td>🛡️ Classe</td><td>Fullstack Developer</td></tr>
+  <tr><td>🎓 College</td><td>Estácio — Análise e Des. de Sistemas</td></tr>
+  <tr><td>📈 Level</td><td>23</td></tr>
+  <tr><td>🎯 Quest atual</td><td>subir de level sem pressa</td></tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
 
