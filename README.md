@@ -16,10 +16,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
 
-### 🏆 ACHIEVEMENTS UNLOCKED
+### 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uLinck&theme=dracula&no-bg=true&row=1&column=7&margin-w=8&no-frame=true" alt="trophies"/>
+  <img src="https://img.shields.io/badge/Estagi%C3%A1rio-Unlocked-bb00b4?style=for-the-badge" alt="Estagiário unlocked"/>
+  <img src="https://img.shields.io/badge/J%C3%BAnior-Unlocked-7b2ff7?style=for-the-badge" alt="Júnior unlocked"/>
+  <img src="https://img.shields.io/badge/Pleno-Unlocked-ff00f6?style=for-the-badge" alt="Pleno unlocked"/>
+  <img src="https://img.shields.io/badge/S%C3%AAnior-Blocked-lightgrey?style=for-the-badge" alt="Sênior blocked"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:ff00f6&height=3"/>
