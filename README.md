@@ -61,7 +61,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uLinck&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true" alt="GitHub Streak"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLinck&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages"/></a>
 </p>
 
 <p align="center">
