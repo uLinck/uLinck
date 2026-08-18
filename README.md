@@ -36,16 +36,13 @@
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"/>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go"/>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"/>
   </kbd>
   <kbd>
     <kbd>Frameworks</kbd><br><br>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring"/>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd><br><br>
-    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/>
-    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"/>
   </kbd>
   <kbd>
     <kbd>Banco de Dados</kbd><br><br>
