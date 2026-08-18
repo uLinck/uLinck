@@ -60,7 +60,7 @@
 ### 💾 SAVE FILE (Stats)
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uLinck&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true" alt="GitHub Streak"/></a>
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FuLinck%2FuLinck%2Foutput%2Fstreak.json&style=for-the-badge" alt="GitHub Streak"/>
 </p>
 
 <p align="center">

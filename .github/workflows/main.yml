@@ -33,6 +33,43 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
+      # computes the current contribution streak via the GraphQL API and writes a shields.io
+      # endpoint-badge JSON, so the README badge never depends on a third-party render service
+      - name: generate streak.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: bearer $GH_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{weeks{contributionDays{contributionCount}}}}}}","variables":{"login":"${{ github.repository_owner }}"}}' \
+            https://api.github.com/graphql > contributions.json
+
+          python3 <<'PYEOF'
+          import json
+
+          with open("contributions.json") as f:
+              data = json.load(f)
+
+          weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+          days = [d["contributionCount"] for w in weeks for d in w["contributionDays"]]
+
+          i = len(days) - 1
+          if days[i] == 0:
+              i -= 1  # today may not have contributions yet, don't break the streak on it
+
+          streak = 0
+          while i >= 0 and days[i] > 0:
+              streak += 1
+              i -= 1
+
+          with open("dist/streak.json", "w") as f:
+              json.dump({
+                  "schemaVersion": 1,
+                  "label": "current streak",
+                  "message": f"{streak} days",
+                  "color": "bb00b4",
+              }, f)
+          PYEOF
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
