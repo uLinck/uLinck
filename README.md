@@ -82,6 +82,6 @@
 
 ### 👁️ Visitor count
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=uLinck&color=bb00b4&style=for-the-badge&label=VIEWS" alt="Profile views"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=uLinck&color=bb00b4&style=for-the-badge&label=VIEWS&base=4000" alt="Profile views"/></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0140,50:7b2ff7,100:ff00f6&height=100&section=footer"/>
